@@ -123,9 +123,13 @@ img {
 .title {
   display: block;
   text-align: center;
-  font-size: 50px;
+  font-size: 40px;
+  color: var(--text);
   position: relative;
   margin-bottom: 20px;
+  padding: 10px;
+  font-weight: 600;
+  font-family: serif;
 }
 .title::after {
   content: "";
