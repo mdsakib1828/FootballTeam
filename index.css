@@ -217,7 +217,7 @@ width: 300px;
     }
      .gallery{
         display: grid;
-        grid-template-columns: 1fr 1frgir;
+        grid-template-columns: 1fr 1fr;
     }
 }
 
